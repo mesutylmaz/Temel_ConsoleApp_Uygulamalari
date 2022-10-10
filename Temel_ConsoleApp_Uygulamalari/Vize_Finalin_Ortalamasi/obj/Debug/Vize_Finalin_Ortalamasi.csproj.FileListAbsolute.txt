@@ -1,0 +1,6 @@
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Vize_Finalin_Ortalamasi\bin\Debug\Vize_Finalin_Ortalamasi.exe.config
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Vize_Finalin_Ortalamasi\bin\Debug\Vize_Finalin_Ortalamasi.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Vize_Finalin_Ortalamasi\bin\Debug\Vize_Finalin_Ortalamasi.pdb
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Vize_Finalin_Ortalamasi\obj\Debug\Vize_Finalin_Ortalamasi.csproj.CoreCompileInputs.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Vize_Finalin_Ortalamasi\obj\Debug\Vize_Finalin_Ortalamasi.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Vize_Finalin_Ortalamasi\obj\Debug\Vize_Finalin_Ortalamasi.pdb

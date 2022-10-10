@@ -1,0 +1,6 @@
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Iki_Sayinin_Kareleri\bin\Debug\Iki_Sayinin_Kareleri.exe.config
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Iki_Sayinin_Kareleri\bin\Debug\Iki_Sayinin_Kareleri.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Iki_Sayinin_Kareleri\bin\Debug\Iki_Sayinin_Kareleri.pdb
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Iki_Sayinin_Kareleri\obj\Debug\Iki_Sayinin_Kareleri.csproj.CoreCompileInputs.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Iki_Sayinin_Kareleri\obj\Debug\Iki_Sayinin_Kareleri.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Iki_Sayinin_Kareleri\obj\Debug\Iki_Sayinin_Kareleri.pdb

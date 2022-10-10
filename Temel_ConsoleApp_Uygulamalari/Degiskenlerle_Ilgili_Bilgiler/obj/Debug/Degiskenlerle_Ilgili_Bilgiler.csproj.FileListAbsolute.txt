@@ -1,0 +1,2 @@
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Degiskenlerle_Ilgili_Bilgiler\obj\Debug\Degiskenlerle_Ilgili_Bilgiler.csproj.AssemblyReference.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Degiskenlerle_Ilgili_Bilgiler\obj\Debug\Degiskenlerle_Ilgili_Bilgiler.csproj.CoreCompileInputs.cache

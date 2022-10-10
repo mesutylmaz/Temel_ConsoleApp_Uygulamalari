@@ -1,0 +1,7 @@
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Bir_Sayi_Ile_Dort_Islem\bin\Debug\Bir_Sayi_Ile_Dort_Islem.exe.config
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Bir_Sayi_Ile_Dort_Islem\bin\Debug\Bir_Sayi_Ile_Dort_Islem.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Bir_Sayi_Ile_Dort_Islem\bin\Debug\Bir_Sayi_Ile_Dort_Islem.pdb
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Bir_Sayi_Ile_Dort_Islem\obj\Debug\Bir_Sayi_Ile_Dort_Islem.csproj.AssemblyReference.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Bir_Sayi_Ile_Dort_Islem\obj\Debug\Bir_Sayi_Ile_Dort_Islem.csproj.CoreCompileInputs.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Bir_Sayi_Ile_Dort_Islem\obj\Debug\Bir_Sayi_Ile_Dort_Islem.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Bir_Sayi_Ile_Dort_Islem\obj\Debug\Bir_Sayi_Ile_Dort_Islem.pdb

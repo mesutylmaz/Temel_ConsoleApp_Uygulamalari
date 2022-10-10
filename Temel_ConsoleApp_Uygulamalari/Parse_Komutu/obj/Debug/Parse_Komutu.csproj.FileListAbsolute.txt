@@ -1,0 +1,6 @@
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Parse_Komutu\bin\Debug\Parse_Komutu.exe.config
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Parse_Komutu\bin\Debug\Parse_Komutu.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Parse_Komutu\bin\Debug\Parse_Komutu.pdb
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Parse_Komutu\obj\Debug\Parse_Komutu.csproj.CoreCompileInputs.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Parse_Komutu\obj\Debug\Parse_Komutu.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Parse_Komutu\obj\Debug\Parse_Komutu.pdb

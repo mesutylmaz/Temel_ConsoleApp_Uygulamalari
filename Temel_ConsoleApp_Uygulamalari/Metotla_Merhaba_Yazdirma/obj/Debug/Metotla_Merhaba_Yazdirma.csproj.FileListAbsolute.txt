@@ -1,0 +1,6 @@
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Metotla_Merhaba_Yazdirma\bin\Debug\Metotla_Merhaba_Yazdirma.exe.config
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Metotla_Merhaba_Yazdirma\bin\Debug\Metotla_Merhaba_Yazdirma.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Metotla_Merhaba_Yazdirma\bin\Debug\Metotla_Merhaba_Yazdirma.pdb
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Metotla_Merhaba_Yazdirma\obj\Debug\Metotla_Merhaba_Yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Metotla_Merhaba_Yazdirma\obj\Debug\Metotla_Merhaba_Yazdirma.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Metotla_Merhaba_Yazdirma\obj\Debug\Metotla_Merhaba_Yazdirma.pdb

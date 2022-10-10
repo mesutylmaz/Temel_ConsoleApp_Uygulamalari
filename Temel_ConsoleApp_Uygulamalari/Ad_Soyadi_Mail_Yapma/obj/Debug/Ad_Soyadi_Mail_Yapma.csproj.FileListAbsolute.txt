@@ -1,0 +1,7 @@
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Ad_Soyadi_Mail_Yapma\bin\Debug\Ad_Soyadi_Mail_Yapma.exe.config
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Ad_Soyadi_Mail_Yapma\bin\Debug\Ad_Soyadi_Mail_Yapma.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Ad_Soyadi_Mail_Yapma\bin\Debug\Ad_Soyadi_Mail_Yapma.pdb
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Ad_Soyadi_Mail_Yapma\obj\Debug\Ad_Soyadi_Mail_Yapma.csproj.AssemblyReference.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Ad_Soyadi_Mail_Yapma\obj\Debug\Ad_Soyadi_Mail_Yapma.csproj.CoreCompileInputs.cache
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Ad_Soyadi_Mail_Yapma\obj\Debug\Ad_Soyadi_Mail_Yapma.exe
+C:\Users\Yılmaz Ailesi\Documents\GitHub\Temel_ConsoleApp_Uygulamalari\Temel_ConsoleApp_Uygulamalari\Ad_Soyadi_Mail_Yapma\obj\Debug\Ad_Soyadi_Mail_Yapma.pdb
